@@ -12,3 +12,4 @@
 :: set "PATH=%CMDER_ROOT%\vendor\whatever;%PATH%"
 
 @echo off
+
